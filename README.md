@@ -1,5 +1,7 @@
 # METODO MAP
 
+### Biblioteca que contiene libros de H.P. Lovecraft.
+
 - Creacion de archivo 📄 `index.html`
 - Creacion de archivo 📄 `style.css`
 - Creacion de archivo 📄 `script.js`
